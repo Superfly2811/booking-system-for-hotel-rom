@@ -1,1 +1,1 @@
-# booking-system-for-IKT-utsyr
+# booking-system-for-hotel-rom
