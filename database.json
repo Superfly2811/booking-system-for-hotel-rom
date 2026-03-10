@@ -1,0 +1,8 @@
+{
+  "rooms": [
+    { "id": 1, "name": "Møterom A" },
+    { "id": 2, "name": "PC-lab 1" },
+    { "id": 3, "name": "Studio" }
+  ],
+  "bookings": []
+}
